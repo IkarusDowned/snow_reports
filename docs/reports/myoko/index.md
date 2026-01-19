@@ -2,5 +2,7 @@
 ---
 # Myoko Reports
 
-- [Myoko Snowpack Report 2026-01-05](./myoko_snowpack_report_2026-01-05.md)
-- [Myoko Snowpack Report 2026-01-19](./myoko_snowpack_report_2026-01-19.md)
+{% assign reports = site.pages | where_exp: "p", "p.path contains 'reports/myoko/'" | where_exp: "p", "p.name != 'index.md'" | sort: "name" | reverse %}
+{% for p in reports %}
+- [{{ p.title | default: p.name | replace: ".md", "" | replace: "_", " " }}]({{ p.url | relative_url }})
+{% endfor %}

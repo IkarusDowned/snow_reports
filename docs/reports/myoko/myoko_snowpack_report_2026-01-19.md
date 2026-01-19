@@ -1,3 +1,5 @@
+---
+---
 # MYOKO SNOWPACK OBSERVATIONS REPORT
 
 **Date:** Sunday, January 19, 2026 at 10:45 AM  
