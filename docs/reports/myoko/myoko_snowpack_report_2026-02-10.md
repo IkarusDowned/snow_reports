@@ -13,7 +13,7 @@
 
 ---
 
-## Concerning results observed: No concerning CT reactivity observed; wind-scoured ridgelines and terrain traps remained primary operational concerns
+## No concerning CT reactivity observed; wind-scoured ridgelines and terrain traps remained primary operational concerns
 
 No instability signs were observed during travel or at the pit (no cracking, whumpfing, or avalanche activity). Compression testing produced no result. Operational concerns were concentrated on wind-scoured ridgelines and terrain traps (gullies, wind-scoured sections).
 
@@ -76,14 +76,14 @@ No avalanche activity observed. No direct signs of instability (cracking, whumpf
 - Wind: Minimal
 
 **Recent weather:**
-- Fresh snowfall 2 days prior; observer estimate ranged 60cm to 1.5m depending on wind transport and exposure (high spatial variability)
+- Fresh snowfall 2 days prior; wind-driven drifts ranged from 60cm to 1.5m
 - Cold overnight temperatures near -8°C; surface snow warmed rapidly with solar input by the time of observation
 
 ---
 
 ## TRAVEL CONDITIONS - Consistent, well-bonded snow; wind-scoured ridges scratchy; terrain traps manageable with conservative line choice
 
-Travel conditions were generally consistent with well-bonded snow for movement. Wind effect on ridgelines had scoured snow and created scratchy surfaces. Coverage was good with fewer brush/bush hazards than earlier season observations. Terrain traps (gullies and wind-scoured sections) remained key concerns but were manageable by staying high in gullies and controlling speed on scoured snow.
+Travel conditions were generally consistent with well-bonded snow for movement. Wind effect on ridgelines had scoured snow and created scratchy surfaces. Coverage was good with fewer brush/bush hazards than earlier season observations. Terrain traps (gullies and wind-scoured sections) remained key concerns and were mitigated by staying high in gullies and controlling speed.
 
 ---
 
